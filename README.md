@@ -12,7 +12,7 @@ Whether you're new to unsupervised learning or seeking to deepen your understand
 
 ## Projects
 
-["Customer Segmentation"](https://github.com/elsayedelmandoh/customer_segmentation)
+[Customer Segmentation](https://github.com/elsayedelmandoh/customer_segmentation)
 
 ## Contributing
 
