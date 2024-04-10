@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning Repository
+## Unsupervised Machine Learning Repository
 
 Welcome to the 'Unsupervised Machine Learning' repository! This repository is your comprehensive guide to unsupervised learning techniques in Python, focusing on key algorithms such as K-means clustering, Principal Component Analysis (PCA), and t-Distributed Stochastic Neighbor Embedding (t-SNE).
 
@@ -9,6 +9,10 @@ Welcome to the 'Unsupervised Machine Learning' repository! This repository is yo
 - t-Distributed Stochastic Neighbor Embedding (t-SNE): Dive into t-SNE, a nonlinear dimensionality reduction technique used for visualizing high-dimensional data in lower-dimensional space while preserving local structure.
 
 Whether you're new to unsupervised learning or seeking to deepen your understanding of these algorithms, this repository provides valuable content, examples, and resources to support your learning journey.
+
+## Projects
+
+["Customer Segmentation"](https://github.com/elsayedelmandoh/customer_segmentation)
 
 ## Contributing
 
